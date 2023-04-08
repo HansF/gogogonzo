@@ -1,6 +1,6 @@
 +++
 title = "Go Go Gonzo"
-tagline = "Where Extraordinary Begins."
+tagline = "Where Extra ordinary Begins."
 +++
 
 Welcome to Go Go Gonzo, where we create remarkable events that foster connections and enrich lives. Here, we embrace the unique, curating memorable experiences that leave a lasting impression on all who attend.

@@ -55,13 +55,13 @@ copyright = "&copy;2021 Go Go Gonzo"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
+        text = "Shop"
+        url = "https://tickets.gogogonzo.be"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "Contact"
+        url = "contact"
 
   # Links List #2
   [[params.links]]
@@ -94,8 +94,8 @@ copyright = "&copy;2021 Go Go Gonzo"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+        text = "Disclosure"
+        url = "disclosure"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.

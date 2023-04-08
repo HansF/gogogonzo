@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://gogogonzo.be"
+baseURL = "https://example.com"
 languageCode = "en-US"
-title = "No rules, just unforgettable events."
+title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -13,15 +13,15 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Go Go Gonzo"
+copyright = "&copy;2021 Your Name"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Go Go Gonzo"
-  description = "Go Go Gonzo - No rules, just unforgettable events."
+  author = "Jenny Jones"
+  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
-  twitterHandle = ""
+  twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
@@ -32,7 +32,7 @@ copyright = "&copy;2021 Go Go Gonzo"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.png"
+      file = "images/background.jpg"
       position = "center center"
 
     # Video
@@ -47,16 +47,16 @@ copyright = "&copy;2021 Go Go Gonzo"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Legal"
+      heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Privacy"
-        url = "privacy.html"
+        text = "Blog"
+        url = "#"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
-        text = "Responsible Disclosure"
-        url = "disclosure.html"
+        text = "Email"
+        url = "#"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]

@@ -1,13 +1,13 @@
 # Site settings
 baseURL = "https://gogogonzo.be"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "GO GO GONZO - Where Extraordinary Begins."
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Local preview mode
 relativeURLs = true
-uglyURLs = true
+uglyURLs = false
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -50,8 +50,8 @@ copyright = "&copy;2021 Go Go Gonzo"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "Privacy"
+        url = "privacy.html"
         new_tab = true # new tab
 
       [[params.links.list1.link]]

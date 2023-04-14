@@ -74,8 +74,8 @@ copyright = "&copy;2021 Go Go Gonzo"
         new_tab = false # new tab
 
       [[params.links.list2.link]]
-        text = "Disclosure"
-        url = "disclosure"
+        text = "Verkoopsvoorwaarden"
+        url = "voorwaarden"
 
       [[params.links.list2.link]]
         text = "Impressum"

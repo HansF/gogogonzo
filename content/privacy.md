@@ -11,6 +11,7 @@ If you have any questions or concerns about our privacy policy or how we handle 
 
 **Information we collect:**
 - We do not collect any personally identifiable information from users of our website.
+- This website is hosted on Netlify, and they keep a 30 day log of ip-adresses and browser data. Info [here](https://www.netlify.com/privacy/).
 
 **Use of information:**
 - We do not use any information collected from users of our website.

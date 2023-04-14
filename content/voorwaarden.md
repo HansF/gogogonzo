@@ -5,7 +5,7 @@ title = "Verkoopsvoorwaarden"
 
 KAARTVERKOOP ALGEMENE BEPALINGEN
 
-1. Definities
+## 1. Definities
 
 1.1 In deze Algemene Bepalingen krijgen de volgende termen (zowel enkelvoud als meervoud) de volgende betekenissen:
 
@@ -17,7 +17,7 @@ KAARTVERKOOP ALGEMENE BEPALINGEN
 * 'Ticket', het toegangsbewijs voor een evenement;
 
 
-2. Toepasbaarheid
+## 2. Toepasbaarheid
 
 2.1 Op alle aanbiedingen, bestellingen en overeenkomsten van GGG zijn de volgende Algemene Bepalingen van toepassing. Tickets gekocht via de webwinkels van GGG worden hierna "Tickets" genoemd.
 
@@ -38,7 +38,7 @@ KAARTVERKOOP ALGEMENE BEPALINGEN
 2.9 GGG heeft het recht om bestellingen te weigeren of bepaalde voorwaarden aan de levering te verbinden, desnoods zonder opgave van redenen. De overeenkomst komt altijd tot stand onder de ontbindende voorwaarde dat GGG de bestelling niet accepteert. Als een bestelling niet wordt geaccepteerd, deelt GGG dit schriftelijk (per e-mail) mee binnen 3 werkdagen na ontvangst van de bestelling.
 
 ​
-3. Prijzen/aanbiedingen
+## 3. Prijzen/aanbiedingen
 
 3.1 Alle aanbiedingen van GGG zijn vrijblijvend en GGG behoudt zich het recht voor om prijzen te wijzigen, met name wanneer dit noodzakelijk is op basis van (wettelijke) voorschriften.
 
@@ -59,7 +59,7 @@ KAARTVERKOOP ALGEMENE BEPALINGEN
 3.9 Het terugboeken van een door GGG afgeschreven bedrag ontslaat de afnemer niet van zijn betalings- en afnameverplichting.
 
 
-​4. Gebruik van GGG Tickets
+## ​4. Gebruik van GGG Tickets
 
 4.1 GGG Tickets kunnen niet worden teruggenomen of omgeruild en verliezen hun geldigheid bij het verstrijken van de daarop aangegeven geldigheidsdatum.
 
@@ -74,7 +74,7 @@ KAARTVERKOOP ALGEMENE BEPALINGEN
 4.6 Elk ticket beschikt over een unieke barcode en is daarom slechts één keer bruikbaar. Het kopiëren van tickets is nutteloos. Van misbruik zal aangifte worden gedaan.
 
 
-5. Annulering en terugbetaling
+## 5. Annulering en terugbetaling
 
 5.1 Een organisator heeft het recht om een evenement te verplaatsen of te annuleren. Als dit gebeurt, zal GGG proberen voor een geschikte oplossing te zorgen. Als een evenement wordt geannuleerd of verplaatst, zal GGG haar best doen om u daarvan zo snel mogelijk op de hoogte te brengen. We kunnen echter niet garanderen dat u voor aanvang van het evenement op de hoogte wordt gebracht en stellen ons niet verantwoordelijk voor eventuele gemaakte kosten.
 
@@ -84,20 +84,20 @@ KAARTVERKOOP ALGEMENE BEPALINGEN
 
 5.4 GGG zal in geen enkel geval gehouden zijn meer te vergoeden dan de toegangsgelden. Dit betekent onder meer dat nooit vergoed worden eventuele extra kosten die de klant heeft betaald voor de door de organisator of namens de organisator door GGG verleende diensten, zoals reserveringskosten. GGG aanvaardt in dergelijk geval nooit aansprakelijkheid voor eventuele andere directe of indirecte gemaakte (on)kosten en/of uitgaven.
 
-6. Betalingen
+## 6. Betalingen
 GGG accepteert iDEAL, Creditcard en PayPal betalingen. Pas als de betaling akkoord is, ontvangt u een bevestiging dat uw bestelling definitief is.
 
-7. Levering
+## 7. Levering
 
 7.1 De tickets worden direct na ontvangst van de bestelling als PDF per e-mail geleverd. Tickets worden na betaling ook als PDF-document gepresenteerd op het computerscherm van de afnemer. Afnemer dient dit PDF-document zelf uit te printen en mee te nemen naar het evenement.
 
 7.2 De door GGG opgegeven levertijden zijn slechts indicatief. Overschrijding van enige leveringstermijn geeft u geen recht op schadevergoeding en evenmin het recht uw bestelling te annuleren dan wel de overeenkomst te ontbinden, tenzij de overschrijding van de leveringstermijn zodanig is dat van u redelijkerwijs niet kan worden verlangd dat u de overeenkomst in stand laat. U bent in dat geval gerechtigd de bestelling te annuleren dan wel de overeenkomst te ontbinden voor zover dat noodzakelijk is.
 
-8. Eigendomsvoorbehoud
+## 8. Eigendomsvoorbehoud
 Het eigendom van geleverde tickets gaat pas over indien u al hetgeen u, op grond van enige overeenkomst aan GGG verschuldigd bent heeft voldaan. Het risico ter zake van de tickets gaat reeds op het moment van de aflevering op u over.
 
 ​
-9. Klachten en aansprakelijkheid
+## 9. Klachten en aansprakelijkheid
 
 9.1 U heeft de verplichting om bij aflevering te onderzoeken of de tickets aan de overeenkomst beantwoorden. Indien dit niet het geval is, dient u GGG daarvan zo spoedig mogelijk en in ieder geval binnen drie (3) dagen na de aflevering, althans nadat constatering redelijkerwijze mogelijk was, schriftelijk en gemotiveerd kennis te geven.
 
@@ -107,19 +107,19 @@ Het eigendom van geleverde tickets gaat pas over indien u al hetgeen u, op grond
 
 9.4 GGG kan nooit aansprakelijk gesteld worden voor schade ten gevolge van dood, letsel, ongevallen, kwetsing, verlies, beschadiging of diefstal veroorzaakt aan de klant tijdens of ten gevolge van een bezoek aan het evenement of de locatie.
 
-10. Elektronische communicatie en bewijs
+## 10. Elektronische communicatie en bewijs
 
 10.1 Voor misverstaan, verminkingen, vertragingen of niet behoorlijk overkomen van gegevens en berichten ten gevolge van het gebruik van internet of enig ander communicatiemiddel in het verkeer tussen klant en GGG (dan wel door klant ingeschakelde derden), is GGG niet aansprakelijk.
 
 10.2 De administratie van GGG geldt als volledig bewijs van het bestaan, de inhoud en de uitvoering van de overeenkomst met de klant in een eventuele gerechtelijke procedure, tot op tegenbewijs door de partij, die zich beroept op het feit dat het bewijs niet betrouwbaar is.
 
-11. Overmacht
+## 11. Overmacht
 
 11.1 Onverminderd de overige aan haar toekomende rechten, heeft GGG in geval van overmacht het recht om, naar eigen keuze, de uitvoering van uw bestelling op te schorten, dan wel de overeenkomst zonder rechterlijke tussenkomst te ontbinden, zulks door u dit schriftelijk mee te delen en zulks zonder dat GGG gehouden is tot enige schadevergoeding, tenzij dit in de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn.
 
 11.2 Onder overmacht wordt verstaan iedere tekortkoming welke niet aan GGG kan worden toegerekend, omdat zij niet te wijten is aan haar schuld en noch krachtens de wet, rechtshandeling of in het verkeer geldende opvattingen voor haar rekening komt.
 
-12. Bijzondere bepalingen, aansprakelijkheid
+## 12. Bijzondere bepalingen, aansprakelijkheid
 
 12.1. De koper van een door GGG geleverd ticket dient zich als goede en ordelijke bezoeker van evenementen te gedragen en zich te houden aan aanwijzingen door of vanwege de organisator van een door hem te bezoeken evenement alsmede door het bevoegd gezag gegeven.
 
@@ -129,7 +129,7 @@ Het eigendom van geleverde tickets gaat pas over indien u al hetgeen u, op grond
 
 12.4 Koper van een door GGG geleverd ticket dient zich zelf op de hoogte te stellen van aanwijzingen door of namens de organisator van het evenement of het bevoegde gezag gegeven betreffende, alsmede van wijzigingen met betrekking tot het evenement, zoals aanvangstijdstip en dergelijke. Op GGGrust geen verplichting tot het dienaangaande nader informeren van koper van een ticket.
 
-13. Diversen
+## 13. Diversen
 Indien één of meer van de bepalingen van deze Voorwaarden of enige andere overeenkomst met GGG in strijd mochten zijn met enig toepasselijk rechtsvoorschrift, zal de betreffende bepaling komen te vervallen en zal deze worden vervangen door een door GGG vast te stellen nieuwe rechtens toelaatbare vergelijkbare bepaling.
 
 

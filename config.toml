@@ -66,19 +66,20 @@ copyright = "&copy;2021 Go Go Gonzo"
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Legal"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
+        text = "Privacy"
+        url = "privacy"
+        new_tab = false # new tab
 
       [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
+        text = "Disclosure"
+        url = "disclosure"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "Impressum"
+        url = "impressum"
 
   # Links List #3
   [[params.links]]

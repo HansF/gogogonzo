@@ -56,7 +56,7 @@ copyright = "&copy;2021 Go Go Gonzo"
 
       [[params.links.list1.link]]
         text = "Shop"
-        url = "https://tickets.gogogonzo.be"
+        url = "https://shop.gogogonzo.be"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]

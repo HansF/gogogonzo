@@ -74,7 +74,7 @@ copyright = "&copy;2021 Go Go Gonzo"
         new_tab = false # new tab
 
       [[params.links.list2.link]]
-        text = "Verkoopsvoorwaarden"
+        text = "TOS"
         url = "voorwaarden"
 
       [[params.links.list2.link]]
@@ -82,21 +82,21 @@ copyright = "&copy;2021 Go Go Gonzo"
         url = "impressum"
 
   # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Disclosure"
-        url = "disclosure"
+#  [[params.links]]
+#    [params.links.list3]
+#      heading = "Network"
+#
+#      [[params.links.list3.link]]
+ #       text = "Link One"
+  #      url = "#"
+#
+  #    [[params.links.list3.link]]
+ #       text = "Link Two"
+   #     url = "#"
+#
+ #     [[params.links.list3.link]]
+  #      text = "Disclosure"
+   #     url = "disclosure"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.

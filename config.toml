@@ -49,15 +49,16 @@ copyright = "&copy;2021 Go Go Gonzo"
     [params.links.list1]
       heading = "Connect"
 
-      [[params.links.list1.link]]
-        text = "Privacy"
-        url = "privacy.html"
-        new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Shop"
         url = "https://shop.gogogonzo.be"
-        new_tab = false # Default, open at same tab
+        new_tab = true # Default, open at same tab
+
+      [[params.links.list1.link]]
+        text = "Newsletter"
+        url = "http://eepurl.com/g18J0z"
+        new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Contact"
@@ -78,7 +79,7 @@ copyright = "&copy;2021 Go Go Gonzo"
         url = "voorwaarden"
 
       [[params.links.list2.link]]
-        text = "Impressum"
+        text = "Imprint"
         url = "impressum"
 
   # Links List #3

@@ -1,3 +1,8 @@
+# Build command and publish dir stay in the Netlify UI (hugo → public).
+# Pinned: the 2021 theme uses .Site.GoogleAnalytics, which newer Hugo removed.
+[build.environment]
+  HUGO_VERSION = "0.111.3"
+
 # Matrix delegation: @user:gogogonzo.be lives on matrix.gogogonzo.be (Tuwunel on hel1).
 # Clients fetch these files cross-origin, so they need CORS and a JSON content type.
 [[headers]]

@@ -1,0 +1,7 @@
+# Matrix delegation: @user:gogogonzo.be lives on matrix.gogogonzo.be (Tuwunel on hel1).
+# Clients fetch these files cross-origin, so they need CORS and a JSON content type.
+[[headers]]
+  for = "/.well-known/matrix/*"
+  [headers.values]
+    Content-Type = "application/json"
+    Access-Control-Allow-Origin = "*"
